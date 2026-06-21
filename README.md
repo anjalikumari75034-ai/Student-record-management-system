@@ -4,7 +4,7 @@
 Anjali Kumari
 
 ## Intern details
-Intern ID: CITS3235
+Intern ID: CITS3235 
 
 ## Duration
 2 Weeks
